@@ -1,6 +1,6 @@
 # Data-Science-labs
 
-Implementation of various machine learning algorithms along with detailed reports to explain the insights that we got by performing the analysis
+Implementation of various machine learning algorithms along with detailed reports to explain the insights that we get by performing the analysis
 
 Assignment1 - Data Visualization and Descriptive analytics
 
